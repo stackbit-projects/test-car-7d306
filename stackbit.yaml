@@ -690,3 +690,6 @@ models:
   image:
     type: object
     label: image
+    fields:
+      - name: ''
+        type: string
