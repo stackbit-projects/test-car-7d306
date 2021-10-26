@@ -61,7 +61,7 @@ export default class HeroSection extends React.Component {
                                     'section__media--right': imagePosition === 'right'
                                 })}
                             >
-                                <img src={withPrefix(image)} alt={imageAlt} />
+                                <img src={"https://mg-motor-eu.imgix.net/images/home/slider/mg-facelift-header-01.jpg?crop=focalpoint&fit=crop&fm=jpg&fp-x=0.5&fp-y=0.5&h=1650&q=70&w=4800"} alt={imageAlt} />
                             </div>
                         )}
                         <div className="cell section__body">
