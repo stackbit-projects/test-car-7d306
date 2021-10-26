@@ -30,7 +30,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "/images/MG_Motor_India_logo.jpeg"
     },
     "footer": {
         "has_nav": true,
